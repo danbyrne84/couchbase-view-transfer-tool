@@ -1,0 +1,12 @@
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\CBViewTransferTool.exe.config
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\obj\Debug\CBViewTransferTool.csprojResolveAssemblyReference.cache
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\CBViewTransferTool.exe
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\CBViewTransferTool.pdb
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\Couchbase.dll
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\Enyim.Caching.dll
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\Couchbase.xml
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\Enyim.Caching.xml
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\bin\Debug\Newtonsoft.Json.xml
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\obj\Debug\CBViewTransferTool.exe
+c:\users\daniel.byrne\documents\visual studio 2012\Projects\CBViewTransferTool\CBViewTransferTool\obj\Debug\CBViewTransferTool.pdb
